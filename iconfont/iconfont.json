@@ -1,0 +1,100 @@
+{
+  "id": "4499454",
+  "name": "uicn",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1282606",
+      "name": "icon_qq",
+      "font_class": "icon_qq",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3680237",
+      "name": "icon-sina",
+      "font_class": "icon-sina",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "18917861",
+      "name": "icon_weixin1",
+      "font_class": "icon_weixin1",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "28205942",
+      "name": "UI2",
+      "font_class": "UI2",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "3551657",
+      "name": "icon_icon_time",
+      "font_class": "icon_icon_time",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "29196876",
+      "name": "Icon-star-solid",
+      "font_class": "Icon-star-solid",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "431177",
+      "name": "praise1",
+      "font_class": "praise1",
+      "unicode": "e7d4",
+      "unicode_decimal": 59348
+    },
+    {
+      "icon_id": "7465700",
+      "name": "评论",
+      "font_class": "icon_comment",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "13077962",
+      "name": "icon_browse",
+      "font_class": "icon_browse",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "17741253",
+      "name": "icon_like_nor",
+      "font_class": "icon_like_nor",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1186182",
+      "name": "icon_user",
+      "font_class": "iconuser",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "6038799",
+      "name": "上传",
+      "font_class": "Icon",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "5049821",
+      "name": "icon-search",
+      "font_class": "icon-search",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
